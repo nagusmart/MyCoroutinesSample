@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">192.168.43.157</domain>
+<!--        <domain includeSubdomains="true">Nagendran.epizy.com</domain>-->
+<!--        <domain includeSubdomains="true">eq39sj8w.epizy.com</domain>-->
+<!--        <domain includeSubdomains="true">185.27.134.100</domain>-->
+
+    </domain-config>
+</network-security-config>
